@@ -6,3 +6,6 @@
 4 mango
 5 fish
 6 stars
+7 buildings
+8 towers
+9 cars
